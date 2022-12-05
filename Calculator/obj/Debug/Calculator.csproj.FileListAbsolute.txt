@@ -1,0 +1,10 @@
+E:\học\cấu trúc DL và giải thuật\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\học\cấu trúc DL và giải thuật\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+E:\học\cấu trúc DL và giải thuật\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\học\cấu trúc DL và giải thuật\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\học\cấu trúc DL và giải thuật\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\học\cấu trúc DL và giải thuật\Calculator\bin\Debug\Calculator.exe.config
+E:\học\cấu trúc DL và giải thuật\Calculator\bin\Debug\Calculator.exe
+E:\học\cấu trúc DL và giải thuật\Calculator\bin\Debug\Calculator.pdb
+E:\học\cấu trúc DL và giải thuật\Calculator\obj\Debug\Calculator.exe
+E:\học\cấu trúc DL và giải thuật\Calculator\obj\Debug\Calculator.pdb
