@@ -1,2 +1,2 @@
 # THE-CALCULATOR
-A winform app stimulate a calculator
+A winform app simulate a calculator
