@@ -21,9 +21,7 @@ namespace Calculator
         }
         private void button_Click(object sender, EventArgs e)
         {
-            // This adds the number or operator to the string calculation
             currentCalculation += (sender as Button).Text;
-            // Display the current calculation back to the user
             textBoxOutput.Text = currentCalculation;
         }
 
@@ -74,7 +72,6 @@ namespace Calculator
         private void buttonEquals_Click(object sender, EventArgs e)
         {
             string formattedCalculation = FormatInput(currentCalculation);
-
             try
             {
                 RPN infix = new RPN(formattedCalculation);
@@ -99,22 +96,20 @@ namespace Calculator
 
         private void buttonClear_Click(object sender, EventArgs e)
         {
-            // Reset the calculation and empty the textbox
             textBoxOutput.Text = "0";
             currentCalculation = "";
         }
 
         private void buttonClearEntry_Click(object sender, EventArgs e)
         {
-            // If the calculation is not empty, remove the last number/operator entered
             if (currentCalculation.Length > 0)
             {
                 currentCalculation = currentCalculation.Remove(currentCalculation.Length - 1, 1);
             }
-
-            // Re-display the calculation onto the screen
             textBoxOutput.Text = currentCalculation;
         }
+
+
 
         /*private void Form1_Load(object sender, EventArgs e)
         {
